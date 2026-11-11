@@ -1,0 +1,8 @@
+{
+  "appId": "es.santiagoluria.trama",
+  "appName": "Trama",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#111A20"
+  }
+}
